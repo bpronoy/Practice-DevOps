@@ -1,0 +1,7 @@
+#this is a test shell script.
+
+
+echo "Hello World"
+cal
+Mkdir Run /home/bpronoy
+
